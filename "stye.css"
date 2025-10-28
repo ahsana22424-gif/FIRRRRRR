@@ -1,0 +1,18 @@
+body (
+  beckgrund-colur:#FFFED;/* WARNA KUNING CERA */
+font-familiy: arial,sans;*/ jenisn huruf yang bersih dan bisa dibaca*/
+color: #191970;/*warna tek utam (Biru Gelap)*/
+}
+.kartu perofil {
+   widit :300px;
+   margin:50px auto;/*50px jarak atas /bawa,auto menengahkan kiri/kanan */
+  padding:20px;
+  beckgrond-colour: white;
+  border-radius :15px/*membuat sudut menjadi melengkung*/
+  box-shadow :0 4px 8px rgba(0,0,0,1)*Efek bayangan*/
+  text-aligen:center ;/*menengahkan semua teks di dalam kartu */
+  {
+
+  kartu-profil ieg {
+   widh:15px;
+    border-radius :50%/*trik untuk membuat gambar persegi menjadi linkaran sempurna */
